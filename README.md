@@ -1,5 +1,5 @@
 ## Problem it solves
-Zimpilo helps users to interact with doctors, take appointment, save medical records online and without any human contact. with addition to the above, it also enables users to register for blood and organ donation. Moreover, for hospital administrators it bridges the communication gap between different hospitals and allows them to ask or answer different request based on hospital needs.
+MedBuddy helps users to interact with doctors, take appointment, save medical records online and without any human contact. with addition to the above, it also enables users to register for blood and organ donation. Moreover, for hospital administrators it bridges the communication gap between different hospitals and allows them to ask or answer different request based on hospital needs.
 
 ## How to run
 
